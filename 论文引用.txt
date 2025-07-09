@@ -1,0 +1,6 @@
+使用该工具发表文章应适宜性引用以下内容：
+
+0.Liu, Q., EPRDataIntegrator, 2020, https://github.com/dadaoqiuzhi/Thomson-Gibbs-equation-calculator, accessed date.（必须引用）
+
+1.Liu, Q.; Liu, S.; Lv, Y.; Huang, Y.; Kong, M.; Yang, Q.; Li, G. Photo-Degradation of Polyethylene under Stress: A Successive Self-Nucleation and Annealing (Ssa) Study. Polym. Degrad. Stab. 2020, 172, 109060.
+
